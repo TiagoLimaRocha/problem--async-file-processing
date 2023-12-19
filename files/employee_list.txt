@@ -1,0 +1,14 @@
+Employee ID: E001
+Name: John Doe
+Department: Sales
+Location: New York
+
+Employee ID: E002
+Name: Jane Smith
+Department: Marketing
+Location: San Francisco
+
+Employee ID: E003
+Name: Emily Davis
+Department: IT
+Location: Toronto

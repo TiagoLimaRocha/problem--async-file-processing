@@ -1,0 +1,14 @@
+Feedback ID: 001
+Customer: Alice
+Rating: 4
+Comment: Great service, but delivery was slow.
+
+Feedback ID: 002
+Customer: Bob
+Rating: 5
+Comment: Excellent product range and fast shipping!
+
+Feedback ID: 003
+Customer: Charlie
+Rating: 3
+Comment: Decent prices, but the product quality could be better.

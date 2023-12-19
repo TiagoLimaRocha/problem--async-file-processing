@@ -1,0 +1,11 @@
+Date: 2022-01-01
+Product: Laptop
+Units Sold: 45
+
+Date: 2022-01-02
+Product: Smartphone
+Units Sold: 75
+
+Date: 2022-01-03
+Product: Headphones
+Units Sold: 60
