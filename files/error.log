@@ -3,3 +3,7 @@ Error: Invalid file path error
 Message:File extension is invalid
 ENOENT: no such file or directory, open '/Users/tiagolimarocha/Code/Playground/problems/async-file-processing/files/not_found.txt'
 ENOENT: no such file or directory, open '/Users/tiagolimarocha/Code/Playground/problems/async-file-processing/files/invalid.bin'
+Error: Invalid file path error
+Message:File extension is invalid
+ENOENT: no such file or directory, open '/Users/tiagolimarocha/Code/Playground/problems/async-file-processing/files/not_found.txt'
+ENOENT: no such file or directory, open '/Users/tiagolimarocha/Code/Playground/problems/async-file-processing/files/invalid.bin'
