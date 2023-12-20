@@ -21,6 +21,13 @@ export async function buildFilePaths(
   return Promise.all(promises);
 }
 
+/**
+ * Reads the contents of a file asynchronously.
+ * @param filePath The path of the file to read.
+ * @returns A promise that resolves with the contents of the file as a string.
+ * @throws {InvalidFilePathError} If the file path is empty or invalid.
+ * @throws {Error} If there is an error reading the file.
+ */
 export async function readFileContents(filePath: string): Promise<string> {
   return new Promise((resolve, reject) => {
     // Check if file path is valid
@@ -52,6 +59,11 @@ export async function readFileContents(filePath: string): Promise<string> {
   })
 }
 
+/**
+ * Writes the error message to the 'error.log' file.
+ * @param error - The error object.
+ * @returns A promise that resolves when the error message is written successfully, or rejects with an error if there was a problem.
+ */
 export async function traceError(error: Error): Promise<void> {
   const filePath = (await buildFilePaths(['error.log']))[0];
   return new Promise((resolve, reject) => {
