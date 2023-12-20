@@ -1,8 +1,0 @@
-Error: Invalid file format detected.
-Details: Unexpected token at line 42.
-
-Error: Database connection failed.
-Details: Timeout while connecting to the server.
-
-Error: File not found.
-Details: Missing file 'data_2021.csv'.
